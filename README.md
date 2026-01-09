@@ -1,6 +1,4 @@
-Для того чтобы твой проект соответствовал требованиям задания и получил максимальный балл, файл `README.md` должен быть структурированным отчетом.
 
-Ниже представлен готовый текст для твоего `README.md`. Тебе нужно только вставить свои скриншоты в соответствующие места.
 
 ---
 
@@ -130,16 +128,4 @@ java Main
 
 During this assignment, I reinforced my understanding of how classes interact through composition. One of the main challenges was managing the array of objects in the `Course` class and ensuring that the `addStudent` method correctly handles index placement.
 
-The benefits of **encapsulation** became clear when implementing the `updateGPA` and `addCredits` methods. By keeping fields private, I ensured that the internal state of a `Student` object can only be changed through controlled methods, preventing accidental data corruption from the `Main` class. This makes the code more maintainable and robust.
-
----
-
-### Как это использовать:
-
-1. Создай в корне своего репозитория (рядом с папкой `src`) файл с названием `README.md`.
-2. Скопируй текст выше и вставь его туда.
-3. Обязательно создай папку `docs/screenshots/` и положи туда скриншот работы своей программы под названием `output_main.png`, чтобы он отобразился в отчете.
-
-
-
-**Хочешь, чтобы я проверил твой метод `getTopStudent` или `countHonors`, чтобы убедиться, что они написаны без ошибок перед защитой?**
+The benefits of **encapsulation** became clear when implementing the `updateGPA` and `addCredits` methods. By keeping fields private, I ensured that the internal state of a `Student` object can only be changed through controlled methods, preventing accidental data corruption from the `Main` class. This makes the code more maintainable
